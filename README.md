@@ -24,7 +24,7 @@ The Biped-Humanoid-Robot mainly consists of:
 
 ## Installation and Environment
 
-Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)
+Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
 
