@@ -29,7 +29,7 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
 
 Inside the commander, we can click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div>
 It can alter the servomotor angle by adjusting the value, it also can change the time and speed option on the servomotor
-<div align=center><img width="500" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div>
+<div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div>
 ## Discussion
 ## Reference
 
