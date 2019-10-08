@@ -12,7 +12,7 @@ The Biped-Humanoid-Robot is a robot, which resembles human-beings body. We can d
 
 The Biped-Humanoid-Robot consists of:
  * IQ4516HV Servomotor
- * Texas Instruments CC2541 2.4-GHz Bluetooth
+ * CC2541 2.4-GHz Bluetooth
 ## Tools
 
 
