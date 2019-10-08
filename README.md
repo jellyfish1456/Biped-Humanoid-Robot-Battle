@@ -1,22 +1,26 @@
 # Biped-Humanoid-Robot Battle
 
-The Biped-Humanoid-Robot is a robot, which resembles human-beings body. We can design the robot with our need. Here, we are going to design the battle robot. Generally, a biped humanoid robot have a torso, a head, two arms, as well as two legs. This robot is bought from [Robosmart Technology](http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=)
+The Biped-Humanoid-Robot is a robot, which resembles human-beings body. We can design the robot with our need. Here, we are going to design the battle robot. Generally, a biped humanoid robot have a torso, a head, two arms, as well as two legs. This robot is bought from [Robosmart Technology](http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=) This robot provides you an opportunity to build your own robot!
+
 
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/3.jpg"/></div>
 
 ## Content
+
   * [Component](#Component)
   * [Tools](#Tools)
   * [Installation and Environment](#Installation)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
+  
 ## Component
 
 The Biped-Humanoid-Robot mainly consists of:
  * Innovati Servo Commander 16 control module
  * IQ4516HV Servomotor
  * CC2541 2.4-GHz Bluetooth
+ 
 ## Tools
 
 
