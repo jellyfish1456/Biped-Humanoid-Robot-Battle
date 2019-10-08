@@ -9,7 +9,6 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
 ## Content
 
   * [Component](#Component)
-  * [Tools](#Tools)
   * [Installation](#Installation)
   * [Start](#Start)
   * [Discussion](#Discussion)
@@ -21,11 +20,6 @@ The Biped-Humanoid-Robot mainly consists of:
  * Innovati Servo Commander 16 control module
  * IQ4516HV Servomotor
  * CC2541 2.4-GHz Bluetooth
- 
-## Tools
-
-
-
 
 ## Installation
 
