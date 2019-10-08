@@ -8,7 +8,7 @@ The Biped-Humanoid-Robot is a robot, which resembles human-beings body. We can d
 ## Content
   * [Component](#Component)
   * [Tools](#Tools)
-  * [Installation](#Installation)
+  * [Installation and Environment](#Installation)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
 ## Component
@@ -22,7 +22,7 @@ The Biped-Humanoid-Robot mainly consists of:
 
 
 
-## Installation
+## Installation and Environment
 
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
