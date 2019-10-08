@@ -26,8 +26,7 @@ The Biped-Humanoid-Robot mainly consists of:
 
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
-Inside the commander, we can click    
-![pic5]((https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg)
+Inside the commander, we can click   <div align=center><img width="50" height="50" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div>
 
 
 
