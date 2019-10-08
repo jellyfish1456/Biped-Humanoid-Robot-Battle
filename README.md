@@ -6,7 +6,7 @@
   * [Installation](#Installation)
   * [Discussion](#Discussion)
 ## Eqiupment
-### The Biped-Humanoid-Robot is a. 
+The Biped-Humanoid-Robot is a robot, which resemble human-beings body.
 Official Link: [Robosmart Technology](http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=)
 
 The Biped-Humanoid-Robot consists of:
