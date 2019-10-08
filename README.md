@@ -32,7 +32,10 @@ The Biped-Humanoid-Robot mainly consists of:
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
+## Start
+
 Inside the commander, we can click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
+
 It can alter the servomotor angle by adjusting the value, it also can change the time and speed option on the servomotor.<br/>
 CH0, CH1, ....to CH15 represent individual servo motor. 
 <div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
@@ -40,7 +43,6 @@ CH0, CH1, ....to CH15 represent individual servo motor.
 At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 ![pic6](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/6.jpg)<br/>
 
-## Start
 ## Discussion
 ## Reference
 
