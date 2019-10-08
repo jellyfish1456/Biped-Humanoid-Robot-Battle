@@ -10,7 +10,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
 
   * [Component](#Component)
   * [Tools](#Tools)
-  * [Installation and Environment](#Installation)
+  * [Installation](#Installation)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
   
@@ -26,7 +26,7 @@ The Biped-Humanoid-Robot mainly consists of:
 
 
 
-## Installation and Environment
+## Installation
 
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
