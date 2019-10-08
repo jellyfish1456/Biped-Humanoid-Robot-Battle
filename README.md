@@ -11,7 +11,7 @@ The Biped-Humanoid-Robot is a robot, which resembles human-beings body. We can d
 ## Component
 
 The Biped-Humanoid-Robot consists of:
- * Innovati Servo Commander 16
+ * Innovati Servo Commander 16 control module
  * IQ4516HV Servomotor
  * CC2541 2.4-GHz Bluetooth
 ## Tools
