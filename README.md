@@ -22,7 +22,7 @@ The Biped-Humanoid-Robot mainly consists of:
 ## Installation
 
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)
-[pic](C:\Users\haha8\OneDrive\桌面\yzu創克\1.jpg)
+![pic](C:\Users\haha8\OneDrive\桌面\yzu創克\1.jpg)
 
 
 
