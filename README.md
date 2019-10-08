@@ -36,7 +36,7 @@ It can alter the servomotor angle by adjusting the value, it also can change the
 CH0, CH1, ....to CH15 represent individual servo motor. 
 <div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
 
-At the bottom, it allows us to save/load the file in our local computer or in the cmu on the robot.
+At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 ![pic6](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/6.jpg)<br/>
 
 
