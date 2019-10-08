@@ -5,4 +5,4 @@
   * Installation
   * Discussion
 
-## [Tools](Tools)
+## [Tools](#Tools)
