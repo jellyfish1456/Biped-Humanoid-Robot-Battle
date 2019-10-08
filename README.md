@@ -2,7 +2,9 @@
 
 The Biped-Humanoid-Robot is a robot, which resembles human-beings body. We can design the robot with our need. Here, we are going to design the battle robot. Generally, a biped humanoid robot have a torso, a head, two arms, as well as two legs. This robot is bought from [Robosmart Technology](http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=)
 
-<img src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/3.jpg" width="30%" height="30%">
+
+<div align=center><img width="150" height="150" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/3.jpg"/></div>
+
 ## Content
   * [Component](#Component)
   * [Tools](#Tools)
