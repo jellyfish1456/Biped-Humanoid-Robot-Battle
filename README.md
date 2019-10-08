@@ -19,6 +19,12 @@ The Biped-Humanoid-Robot consists of:
 
 ## Installation
 
+
+
+
+
+
+## Discussion
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
@@ -32,14 +38,3 @@ https://en.wikipedia.org/wiki/Humanoid_robot
 
 
 
-
-
-
-
-
-
-
-
-
-
-## Discussion
