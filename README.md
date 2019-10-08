@@ -11,6 +11,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Component](#Component)
   * [Installation](#Installation)
   * [Start](#Start)
+  * [Attack-posture](#Attack-posture)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
   
@@ -37,6 +38,7 @@ CH0, CH1, ....to CH15 represent individual servo motor.
 At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 ![pic6](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/6.jpg)<br/>
 
+## Attack-posture
 ## Discussion
 ## Reference
 
