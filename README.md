@@ -1,8 +1,8 @@
 # Biped-Humanoid-Robot Battle
 
 ## Content
-  * Tools
+  * [Tools](#Tools)
   * Installation
   * Discussion
 
-## [Tools](#Tools)
+## Tools
