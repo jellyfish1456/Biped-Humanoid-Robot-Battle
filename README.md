@@ -21,7 +21,7 @@ The Biped-Humanoid-Robot mainly consists of:
 
 ## Installation
 
-
+Installl [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)
 
 
 
