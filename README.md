@@ -48,8 +48,8 @@ At the bottom, the left side allows us to save/load the file in our local comput
 This is the picture of servo motor. 
 <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
 
-Maintainance:
-  If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
+Maintainance:<br/>
+If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
 ## Attack-posture
 
 
