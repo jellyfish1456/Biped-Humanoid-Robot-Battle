@@ -11,6 +11,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Component](#Component)
   * [Installation](#Installation)
   * [Start](#Start)
+  * [Servo-motor](#Servo-motor)
   * [Attack-posture](#Attack-posture)
   * [Maintenance](#Maintenance)
   * [Discussion](#Discussion)
@@ -22,11 +23,14 @@ The Biped-Humanoid-Robot mainly consists of:
  * Innovati Servo Commander 16 control module
  * IQ4516HV Servomotor
  * CC2541 2.4-GHz Bluetooth
+ 
+Battery:
  * Desire Power V8 11.1V 1300mAh 35C-70C 3S LiPo Battery
-
+ * Balance Battery Charger
+ 
 ## Installation
 
-Operating system: Microsoft Windows<br/>
+Operating system: Microsoft Windows 10<br/>
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
@@ -40,7 +44,7 @@ CH0, CH1, ....to CH15 represent individual servo motor.
 
 At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 
-
+## Servo-motor
 ## Attack-posture
 ## Maintenance
 
