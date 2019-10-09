@@ -42,6 +42,10 @@ At the bottom, the left side allows us to save/load the file in our local comput
 
 ## Attack-posture
 ## Maintenance
+
+This is the picture of servo motor
+![pic7](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg)
+
 ## Discussion
 ## Reference
 
