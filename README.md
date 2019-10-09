@@ -50,6 +50,8 @@ This is the picture of servo motor.
 
   * Maintainance:<br/>
      If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
+  * Position:<br/>
+     There are 15 servos motors in the robot....................
 ## Attack-posture
 
 
