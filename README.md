@@ -44,7 +44,7 @@ At the bottom, the left side allows us to save/load the file in our local comput
 ## Maintenance
 
 This is the picture of servo motor
-<div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
+<div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
 
 ## Discussion
 ## Reference
