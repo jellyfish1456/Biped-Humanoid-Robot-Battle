@@ -12,6 +12,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Installation](#Installation)
   * [Start](#Start)
   * [Attack-posture](#Attack-posture)
+  * [Maintenance](#Maintenance)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
   
@@ -40,6 +41,7 @@ At the bottom, the left side allows us to save/load the file in our local comput
 ![pic6](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/6.jpg)<br/>
 
 ## Attack-posture
+## Maintenance
 ## Discussion
 ## Reference
 
