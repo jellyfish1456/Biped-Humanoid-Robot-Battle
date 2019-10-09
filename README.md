@@ -13,8 +13,6 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Start](#Start)
   * [Servo-motor](#Servo-motor)
   * [Attack-posture](#Attack-posture)
-  
-  * [Maintenance](#Maintenance)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
   
@@ -46,12 +44,16 @@ CH0, CH1, ....to CH15 represent individual servo motor.
 At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 
 ## Servo-motor
-## Attack-posture
-## Maintenance
 
 This is the picture of servo motor. 
 <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
-If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
+
+Maintainance:
+  If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
+## Attack-posture
+
+
+
 
 ## Discussion
 ## Reference
