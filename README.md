@@ -23,7 +23,8 @@ The Biped-Humanoid-Robot mainly consists of:
  * CC2541 2.4-GHz Bluetooth
 
 ## Installation
-### Operating system: Microsoft Windows
+
+Operating system: Microsoft Windows
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
