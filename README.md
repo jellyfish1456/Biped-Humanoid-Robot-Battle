@@ -22,6 +22,7 @@ The Biped-Humanoid-Robot mainly consists of:
  * Innovati Servo Commander 16 control module
  * IQ4516HV Servomotor
  * CC2541 2.4-GHz Bluetooth
+ * Desire Power V8 11.1V 1300mAh 35C-70C 3S LiPo Battery
 
 ## Installation
 
