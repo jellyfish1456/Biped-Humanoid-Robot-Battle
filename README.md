@@ -38,13 +38,13 @@ CH0, CH1, ....to CH15 represent individual servo motor.
 <div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
 
 At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
-![pic6](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/6.jpg)<br/>
+
 
 ## Attack-posture
 ## Maintenance
 
 This is the picture of servo motor
-![pic7](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg)
+<div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
 
 ## Discussion
 ## Reference
