@@ -41,11 +41,11 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
 Inside the innoBASIC Workshop 2 commander, we can click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
 It can alter the servomotor angle by adjusting the value, it also can change the time and speed option on the servomotor.<br/>
-CH0, CH1, ....to CH15 represent individual servo motor. 
+CH0, CH1, ....to CH15 represent individual servo motor. <br/>
+At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 <div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
 
-At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
-
+After finishing the 
 ## Servo-motor
 
 This is the picture of servo motor. (Attention: servo motor angle's range 800~2200)
