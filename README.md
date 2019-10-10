@@ -45,7 +45,7 @@ CH0, CH1, ....to CH15 represent individual servo motor. <br/>
 At the bottom, the left side allows us to save/load the file in our local computer. The right side allows us to save/load the file in the cmu on the robot.
 <div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
 
-After editing the program, click "build" to transmit program to the robot
+After editing the program, clicking "build" to transmit program to the robot
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
 
 ## Servo-motor
