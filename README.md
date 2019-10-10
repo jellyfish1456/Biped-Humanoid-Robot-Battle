@@ -58,6 +58,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
   * Position:<br/>
      There are 15 servos motors in the robot.<br/>
+     The picture below is the each servo motor corresponding to the robot.<br/>
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
      
 ## Attack-posture
