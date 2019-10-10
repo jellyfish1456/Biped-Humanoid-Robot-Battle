@@ -29,7 +29,6 @@ Battery:
  
 ## Installation
 
-  * [InnoBASIC-Workshop-2](#InnoBASIC-Workshop-2)<br/>
 Operating system: Microsoft Windows 10<br/>
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
@@ -39,7 +38,7 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
  * Second, connect the battery with the robot.
  * Thirdly, observe the controller is whether connected to the robot.(red indicator light)
  
-Inside the  ## InnoBASIC-Workshop-2  commander, we click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
+Inside the  InnoBASIC Workshop 2  commander, we click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
 It can alter the servomotor angle by adjusting the value, it also can change the time and speed option on the servomotor.<br/>
 CH0, CH1, ....to CH15 represent individual servo motor. <br/>
