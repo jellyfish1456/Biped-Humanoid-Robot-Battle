@@ -12,7 +12,6 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Installation](#Installation)
   * [Start](#Start)
   * [Servo-motor](#Servo-motor)
-  * [Attack-posture](#Attack-posture)
   * [Discussion](#Discussion)
   * [Reference](#Reference)
   
@@ -61,7 +60,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      The picture below is the each servo motor corresponding to the robot.<br/>
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
      
-## Attack-posture
+
 
 
 
