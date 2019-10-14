@@ -36,7 +36,7 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, connect the battery with the robot.
  * Thirdly, observe the controller is whether connected to the robot.(red indicator light)
- <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/12.jpg"/></div><br/>
+ <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
 
 Open the  InnoBASIC Workshop 2  commander, we click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
