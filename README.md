@@ -21,6 +21,7 @@ The Biped-Humanoid-Robot mainly consists of:
  * CC2541 2.4-GHz Bluetooth
  * USB Mini-B
  * PS2 wireless controller
+ 
 Battery:
  * Desire Power V8 11.1V 1300mAh 35C-70C 3S LiPo Battery
  * Balance Battery Charger
