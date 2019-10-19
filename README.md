@@ -69,10 +69,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 ## Control
 Here we use PS2 wireless controller to control our robot
 
-![pic13](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/13.jpg)
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
-
-
 
 
 ## Discussion
