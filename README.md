@@ -14,6 +14,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Discussion](#Discussion)
   * [Video](#Video)
   * [Reference](#Reference)
+  * [Gratitude](#Gratitude)
  
   
 ## Component
@@ -98,7 +99,7 @@ https://en.wikipedia.org/wiki/Humanoid_robot
 
 
 
-
+## Gratitude
 
 We appreciate Prof. Po-Chiang Lin as our advisor.
 
