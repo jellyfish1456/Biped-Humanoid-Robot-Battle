@@ -75,15 +75,15 @@ Here we use PS2 wireless controller to control our robot
 
  1.  * Q: If the robot cannot walk properly in different grounds, how should I do?
 
-  * A: Currently, we are learning how to design a robot which can adapt different kinds of environment. Now, we can adjust the robot manually.
-2.
-  * Q: Is it possible to do any action we want?
+     * A: Currently, we are learning how to design a robot which can adapt different kinds of environment. Now, we can adjust the robot manually.
+
+2.   * Q: Is it possible to do any action we want?
   
-  * A: Yes, You can design any action and accomplish your ideas on your own.
-3.
-  * Q: What is the robot's application?
+     * A: Yes, You can design any action and accomplish your ideas on your own.
+
+3.   * Q: What is the robot's application?
   
-  * A: There exist a great numbers of applications. Currently, we complete gymnastics and work on the application with computer vision
+     * A: There exist a great numbers of applications. Currently, we complete gymnastics and work on the application with computer vision
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
