@@ -83,7 +83,7 @@ Here we use PS2 wireless controller to control our robot
 
 3.   * Q: What is the robot's application?
   
-     * A: There exist a great numbers of applications. Currently, we complete gymnastics and work on the application with computer vision
+     * A: There exist a great numbers of applications. Currently, we complete gymnastics and so far work on the application with computer vision
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
@@ -95,5 +95,5 @@ https://en.wikipedia.org/wiki/Humanoid_robot
 
 
 
-
+We appreciate Prof. Po-Chiang Lin as our advisor.
 
