@@ -8,6 +8,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
 
   * [Component](#Component)
   * [Installation](#Installation)
+  * [Before_start](#Before_start)
   * [Start](#Start)
   * [Servo-motor](#Servo-motor)
   * [Control](#Control)
@@ -36,10 +37,14 @@ Operating system: Microsoft Windows 10<br/>
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) commander for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
-## Start
+## Before_start
+
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, connect the battery with the robot.
  * Thirdly, observe the controller is whether connected to the robot.(red indicator light)
+ 
+## Start
+
  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
  
 Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
