@@ -73,6 +73,7 @@ Here we use PS2 wireless controller to control our robot
 
 ## Discussion
 Q: If the robot cannot walk properly in different floor, how should I do?
+
 A: Currently, we are learning how to design a robot which can adapt different kinds of environment. Now, we can adjust the robot manually.
 ## Reference
 
