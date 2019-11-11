@@ -10,7 +10,6 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Installation](#Installation)
   * [Start](#Start)
   * [Servo-motor](#Servo-motor)
-  * [Discussion](#Discussion)
   * [Reference](#Reference)
   * [Control](#Control)
   
@@ -72,7 +71,7 @@ Here we use PS2 wireless controller to control our robot
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
 
-## Discussion
+
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
