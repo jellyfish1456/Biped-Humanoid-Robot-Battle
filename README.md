@@ -72,9 +72,15 @@ Here we use PS2 wireless controller to control our robot
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
 ## Discussion
-  * Q: If the robot cannot walk properly in different floor, how should I do?
+  * Q: If the robot cannot walk properly in different grounds, how should I do?
 
   * A: Currently, we are learning how to design a robot which can adapt different kinds of environment. Now, we can adjust the robot manually.
+  
+  * Q: Is it possible to do any action we want?
+  
+  * A: Yes, You can design any action and accomplish your ideas on your own.
+  
+  
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
