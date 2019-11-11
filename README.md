@@ -80,7 +80,9 @@ Here we use PS2 wireless controller to control our robot
   
   * A: Yes, You can design any action and accomplish your ideas on your own.
   
+  * Q: What is the robot's application?
   
+  * A: There exist a great numbers of applications. Currently, we complete gymnastics and work on the application with computer vision
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
