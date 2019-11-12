@@ -115,4 +115,4 @@ https://en.wikipedia.org/wiki/Humanoid_robot
 ## Gratitude
 
 We appreciate Prof. Po-Chiang Lin as our advisor.
-
+We also appreciate those who helped us along the way
