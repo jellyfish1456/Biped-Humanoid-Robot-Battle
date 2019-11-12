@@ -96,7 +96,11 @@ Here we use PS2 wireless controller to control our robot
   
      * A: There exist a great numbers of applications. Currently, we complete gymnastics and so far work on the application with computer vision
 ## Video
+
+  <https://www.youtube.com/watch?v=5fRVJbHhV6Q>
   <https://www.youtube.com/watch?v=si86ftxEGCs>
+  <https://www.youtube.com/watch?v=VnRADacrUuY>
+  
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
