@@ -97,11 +97,11 @@ Here we use PS2 wireless controller to control our robot
      * A: There exist a great numbers of applications. Currently, we complete gymnastics and so far work on the application with computer vision
 ## Video
 
-    [One-handed handstand](https://www.youtube.com/watch?v=5fRVJbHhV6Q)
+[One-handed handstand](https://www.youtube.com/watch?v=5fRVJbHhV6Q)
 	   
-    [Jump rotation](https://www.youtube.com/watch?v=VnRADacrUuY "link")
+[Jump rotation](https://www.youtube.com/watch?v=VnRADacrUuY)
     
-    [Backwards rotation](https://www.youtube.com/watch?v=si86ftxEGCs "link")
+[Backwards rotation](https://www.youtube.com/watch?v=si86ftxEGCs)
   
 ## Reference
 
