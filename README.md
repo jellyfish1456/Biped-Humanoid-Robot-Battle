@@ -90,9 +90,6 @@ Here we use PS2 wireless controller to control our robot.
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
-Here, we press START button to connect with our robot. If the robot is connected, the servo motors will be fixed.
-
-If it is not connected, the indicator red light will flash on the controller.
 
 ## Discussion
 
