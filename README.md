@@ -81,7 +81,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, connect the battery with the robot.
  * Thirdly, observe the controller is whether connected to the robot.(red indicator light)
-  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
+  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
   
 Here we use PS2 wireless controller to control our robot.
 
