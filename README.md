@@ -33,9 +33,12 @@ Battery:
  
 ## Installation
 
-Operating system: Microsoft Windows 10<br/>
+1. Operating system: Microsoft Windows 10<br/>
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) commander for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
+
+2. Assembly robot
+
 
 ## Before_start
 
@@ -81,6 +84,10 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 Here we use PS2 wireless controller to control our robot
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
+
+Here, we press START button to connect with our robot. If the robot is connected, the servo motors will be fixed.
+
+If it is not connected, the indicator red light will flash on the controller.
 
 ## Discussion
 
