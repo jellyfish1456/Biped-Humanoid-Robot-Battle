@@ -8,10 +8,9 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
 
   * [Component](#Component)
   * [Installation](#Installation)
-  * [Before_start](#Before_start)
   * [Start](#Start)
   * [Servo-motor](#Servo-motor)
-  * [Control](#Control)
+  * [Control_robot](#Control_robot)
   * [Discussion](#Discussion)
   * [Video](#Video)
   * [Reference](#Reference)
@@ -40,12 +39,9 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
 2. Assembly robot
 
 
-## Before_start
 
- * First of all, we should check the controlloer and battery whether is fully charged.
- * Second, connect the battery with the robot.
- * Thirdly, observe the controller is whether connected to the robot.(red indicator light)
-  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
+
+
   
 ## Start
 
@@ -80,8 +76,14 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
      
 
-## Control
-Here we use PS2 wireless controller to control our robot
+## Control_robot
+
+ * First of all, we should check the controlloer and battery whether is fully charged.
+ * Second, connect the battery with the robot.
+ * Thirdly, observe the controller is whether connected to the robot.(red indicator light)
+  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
+  
+Here we use PS2 wireless controller to control our robot.
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
@@ -102,6 +104,7 @@ If it is not connected, the indicator red light will flash on the controller.
 3.   * Q: What is the robot's application?
   
      * A: There exist a great numbers of applications. Currently, we complete gymnastics and so far work on the application with computer vision
+     
 ## Video
 
 [One-handed handstand](https://www.youtube.com/watch?v=5fRVJbHhV6Q)
