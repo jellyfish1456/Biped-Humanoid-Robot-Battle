@@ -8,7 +8,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
 
   * [Component](#Component)
   * [Installation](#Installation)
-  * [Start](#Start)
+  * [Edit_and_adjust](#Edit_and_adjust)
   * [Servo-motor](#Servo-motor)
   * [Control_robot](#Control_robot)
   * [Discussion](#Discussion)
@@ -39,13 +39,8 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
 2. Assembly robot
 
 
-
-
-
   
-## Start
-
-
+## Edit_and_adjust
  
 Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
