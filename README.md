@@ -13,6 +13,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Control_robot](#Control_robot)
   * [Discussion](#Discussion)
   * [Video](#Video)
+  * [Code](#Code)
   * [Reference](#Reference)
   * [Gratitude](#Gratitude)
  
@@ -37,6 +38,7 @@ Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
 2. Assembly robot
+圖片.......
 
 
   
@@ -108,6 +110,11 @@ Here we use PS2 wireless controller to control our robot.
     
 [Backwards rotation](https://www.youtube.com/watch?v=si86ftxEGCs)
   
+  
+## Code
+
+Code will be uploaded after the end of the competition
+
 ## Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
