@@ -10,7 +10,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Installation](#Installation)
   * [Edit_and_adjust](#Edit_and_adjust)
   * [Servo-motor](#Servo-motor)
-  * [Control_robot](#Control_robot)
+  * [Start](#Start)
   * [Discussion](#Discussion)
   * [Video](#Video)
   * [Code](#Code)
@@ -74,7 +74,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
      
 
-## Control_robot
+## Start
 
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, connect the battery with the robot.
