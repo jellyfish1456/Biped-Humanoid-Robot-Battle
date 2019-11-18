@@ -99,8 +99,9 @@ Here we use PS2 wireless controller to control our robot.
   
      * A: There exist a great numbers of applications. Currently, we complete gymnastics and so far work on the application with computer vision
  
+ 
 4.   * Q: What programming language is used?
-     * A: Visual basic-like programming language.
+     * A: Visual basic-like programming language.<br/>
      
      
 5.   * Q: How do I assembly the robot?
