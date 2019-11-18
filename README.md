@@ -103,7 +103,7 @@ Here we use PS2 wireless controller to control our robot.
   
      * A: There exist a great numbers of applications. Currently, we complete gymnastics and so far work on the application with computer vision
      
-If you have more question, please feel free to ask us:
+If you have more questions, please feel free to ask us:
 
 haha871116@gmail.com
 
