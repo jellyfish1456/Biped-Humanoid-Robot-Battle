@@ -101,10 +101,12 @@ Here we use PS2 wireless controller to control our robot.
  
  
 4.   * Q: What programming language is used?
-     * A: Visual basic-like programming language.<br/>
+
+     * A: Visual basic-like programming language.
      
      
 5.   * Q: How do I assembly the robot?
+
      * A: Please visit the website and follow the instructions.
      
 If you have more questions, please feel free to ask us:
