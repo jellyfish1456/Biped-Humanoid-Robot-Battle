@@ -38,10 +38,6 @@ Battery:
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) commander for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
-2. Assembly robot
-圖片.......
-
-
   
 ## Edit_and_adjust
  
