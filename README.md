@@ -68,6 +68,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 
   * Maintainance:<br/>
      If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
+     
   * Position:<br/>
      There are 15 servos motors in the robot.<br/>
      The picture below is the each servo motor corresponding to the robot.<br/>
@@ -78,8 +79,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, connect the battery with the robot.
- * Thirdly, press START button to connect with our robot. If the robot is connected, the servo motors will be fixed.
-   If it is not connected, the indicator red light will flash on the controller.
+ * Thirdly, press START button on the PS2 controller to connect with our robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
  
  
   <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
