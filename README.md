@@ -38,7 +38,13 @@ Battery:
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) commander for execute the code
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/21.jpg)
 
-  
+The system is composed of several different parts.The innoBASIC Workshop environment which is a software utility running in the PC. The user’s program is edited with the innoBASIC editor. After editing, the program is compiled and downloaded from within this environment. Also, a Terminal Window is available as the Human Interface or Debug console. Then via the USB interface, the finished program code is downloaded to the BASIC Commander Single Board Computer. <br/>
+
+There are three kinds of resources can be used. First is the General-Purpose I/Os, for which built-in commands are provided for sophisticated functions; second is the cmdBUSTM, where up to 32 Innovati featured Peripheral Modules can be connected. Thirdly is the debug interface, where information can be exchanged between the BASIC Commander and the innoBASIC Workshop Terminal Window.
+ ![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/25.jpg)
+
+This system needs IBM or Compatible PC running under Windows 98 or above version/2000/ME/XP/Vista/10. A USB 1.1 /2.0 port is a must, which is essential for your program downloading and debugging. 
+
 ## Edit_and_adjust
  
 Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
