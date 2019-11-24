@@ -56,6 +56,7 @@ CH0, CH1, ....to CH15 represent individual servo motor. <br/>
 
 At the bottom, choosing "PC" allows us to save/load the file in our local computer. Chossing "Module" allows us to save/load the file in the cmu on the robot.
 <div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/23.jpg"/></div><br/>
+![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
 
 After editing the program, using USB Mini-B to connect computer and robot, as well as clicking "build" in the InnoBASIC Workshop 2 commander to transmit program to the robot
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
