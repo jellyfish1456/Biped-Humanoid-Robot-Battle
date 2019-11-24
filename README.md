@@ -87,7 +87,7 @@ Here we use PS2 wireless controller to control our robot.
 
 ![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
 
-These buttons can be set by ourselves
+Notice: These buttons can be set by ourselves!
 ## Discussion
 
  1.  * Q: If the robot cannot walk properly in different grounds, how should I do?
