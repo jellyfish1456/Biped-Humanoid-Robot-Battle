@@ -81,14 +81,13 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
  * Second, connect the battery with the robot.
  * Thirdly, press "START" button on the PS2 controller to connect with our robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
  
- 
   <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
   
 Here we use PS2 wireless controller to control our robot.
 
-
 ![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
 
+ * These buttons can be set by ourselves
 ## Discussion
 
  1.  * Q: If the robot cannot walk properly in different grounds, how should I do?
