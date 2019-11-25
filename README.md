@@ -144,6 +144,7 @@ Code will be uploaded after the end of the competition
 
 https://en.wikipedia.org/wiki/Humanoid_robot
 
+http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 
 
