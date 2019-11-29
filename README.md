@@ -10,8 +10,6 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Installation](#Installation)
   * [Robot_Action_Programming](#Robot_Action_Programming)
   * [Preliminary_prepare](#Preliminary_prepare)
-  * [Servo-motor](#Servo-motor)
-  * [Battery](#Battery)
   * [Check_and_start](#Check_and_start)
   * [Trouble_shooting](#Trouble_shooting)
   * [Discussion](#Discussion)
