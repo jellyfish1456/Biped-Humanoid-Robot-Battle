@@ -12,6 +12,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Servo-motor](#Servo-motor)
   * [Battery](#Battery)
   * [Start](#Start)
+  * [Trouble_shooting](#Trouble_shooting)
   * [Discussion](#Discussion)
   * [Video](#Video)
   * [Code](#Code)
@@ -98,6 +99,9 @@ Here we use PS2 wireless controller to control our robot.
 ![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
 
 Notice: These buttons can be set by ourselves!
+
+## Trouble_shooting
+
 ## Discussion
 
  1.  * Q: If the robot cannot walk properly in different grounds, how should I do?
