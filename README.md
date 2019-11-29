@@ -60,7 +60,7 @@ Inside the commander is the code editor.
 3. It will show up a window. We choose "Default" in the kit preset, and choose "Servo commander 16" in the Left used module. Press "OK".
 ![pic27](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/27.jpg)
 
-Then, it will pop up a warning sign to warn you to check to servo motors's position.
+Then, it will pop up a warning sign to warn you to check to servo motors's position. Press "OK".
 
 ![pic28](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/28.jpg)
 
