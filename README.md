@@ -155,7 +155,7 @@ Team members:
 
   張程鈞  Yuan Ze University - International program in electrical and communication engineering department
 
-  徐靖憲(Ching-Hsien Hsu) 1063740 Yuan Ze University - International program in electrical and communication engineering department
+  徐靖憲(Ching-Hsien Hsu) Yuan Ze University - International program in electrical and communication engineering department
    
 Advisor:
 
