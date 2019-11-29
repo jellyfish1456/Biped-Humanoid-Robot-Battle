@@ -58,7 +58,11 @@ Inside the commander is the code editor.
 Open the InnoBASIC Workshop 2 commander, we click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
 And then, it will show up a window. We choose "Default" in the kit preset, and choose "Servo commander 16" in the Left used module. Press "OK".
-![pic22](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/27.jpg)
+![pic27](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/27.jpg)
+
+Then, it will pop up a warning sign to warn you to check to servo motors's position.
+
+![pic28](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/28.jpg)
 
 It can alter the servomotor angle by adjusting the value, it also can change the time and speed option on the servomotor.<br/>
 CH0, CH1, ....to CH15 represent individual servo motor. <br/>
