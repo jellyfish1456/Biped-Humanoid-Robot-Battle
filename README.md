@@ -64,6 +64,8 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 
 ![pic28](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/28.jpg)
 
+4. Below is the step of using Innovation motion editor to edit the servo motors value.
+
 (I) represent the frame ID. From 1 to 200
 
 (II)CH0, CH1, ....to CH15 represent individual servo motor. 
