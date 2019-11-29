@@ -11,7 +11,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Robot_Action_programming](#Robot_Action_programming)
   * [Servo-motor](#Servo-motor)
   * [Battery](#Battery)
-  * [Start](#Start)
+  * [Check_and_start](#Check_and_start)
   * [Trouble_shooting](#Trouble_shooting)
   * [Discussion](#Discussion)
   * [Video](#Video)
@@ -100,7 +100,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 ## Battery
 
 
-## Start
+## Check_and_start
 
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, connect the battery with the robot.
