@@ -84,7 +84,10 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 
 After editing the program, using USB Mini-B to connect computer and robot, as well as clicking "build" in the InnoBASIC Workshop 2 commander to transmit program to the robot
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
+
 ## Preliminary_work
+
+
 ## Servo-motor
 
 This is the picture of servo motor. (Attention: servo motor angle's range 800~2200)
