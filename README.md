@@ -126,13 +126,7 @@ Notice: These buttons can be set by ourselves!
 
      * A: Please visit the website and follow the instructions.
      
-If you have more questions, please feel free to ask us:
 
-haha871116@gmail.com
-
-jason3067812@gmail.com
-
-leo32448@gmail.com
 
 ## Video
 Gymnastics
