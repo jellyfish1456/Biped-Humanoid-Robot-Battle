@@ -68,7 +68,7 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 
 (I) It represent the frame ID from 1 to 200.
 
-(II) CH0, CH1, ....to CH15 represent individual servo motor. 
+(II) CH0, CH1, ....to CH15 represent individual servo motor ID. (Click the ID will activate that corresponding servo motor).
 
 (III) It can alter the servomotor angle by adjusting the value. The angle range is from 800 to 2200.
 
