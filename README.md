@@ -15,7 +15,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
   * [Video](#Video)
   * [Code](#Code)
   * [Reference](#Reference)
-  * [Team_members](#Team_members)
+  * [Members](#Members)
   * [Gratitude](#Gratitude)
  
   
@@ -148,13 +148,16 @@ https://en.wikipedia.org/wiki/Humanoid_robot
 http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 
-## Team_members
+## Members
+Team members: 
+ *劉力元 Yuan Ze University - International program in electrical and communication engineering department
 
-劉力元 Yuan Ze University - International program in electrical and communication engineering department
+ *張程鈞  Yuan Ze University - International program in electrical and communication engineering department
 
-張程鈞  Yuan Ze University - International program in electrical and communication engineering department
-
-徐靖憲(Ching-Hsien Hsu) 1063740 Yuan Ze University - International program in electrical and communication engineering department
+ *徐靖憲(Ching-Hsien Hsu) 1063740 Yuan Ze University - International program in electrical and communication engineering department
+ 
+Advisor:
+ *林柏江教授(Po-Chiang Lin Professor) Yuan Ze University - Electrical engineering department program B
 
 ## Gratitude
 
