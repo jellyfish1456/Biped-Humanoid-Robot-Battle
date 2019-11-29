@@ -151,15 +151,15 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 ## Members
 Team members: 
 
-  劉力元 Yuan Ze University - International program in electrical and communication engineering department
+     劉力元 Yuan Ze University - International program in electrical and communication engineering department
 
-  張程鈞  Yuan Ze University - International program in electrical and communication engineering department
+     張程鈞  Yuan Ze University - International program in electrical and communication engineering department
 
-  徐靖憲(Ching-Hsien Hsu) 1063740 Yuan Ze University - International program in electrical and communication engineering department
- 
+     徐靖憲(Ching-Hsien Hsu) 1063740 Yuan Ze University - International program in electrical and communication engineering department
+   
 Advisor:
 
-  林柏江教授(Po-Chiang Lin Professor) Yuan Ze University - Electrical engineering department program B
+     林柏江教授(Po-Chiang Lin Professor) Yuan Ze University - Electrical engineering department program B
 
 ## Gratitude
 
