@@ -64,10 +64,18 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 
 ![pic28](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/28.jpg)
 
-It can alter the servomotor angle by adjusting the value, it also can change the time and speed option on the servomotor.<br/>
-CH0, CH1, ....to CH15 represent individual servo motor. <br/>
+(I) represent the frame ID. From 1 to 200
 
-At the bottom, choosing "PC" allows us to save/load the file in our local computer. Chossing "Module" allows us to save/load the file in the cmu on the robot.
+(II)CH0, CH1, ....to CH15 represent individual servo motor. 
+
+(III)It can alter the servomotor angle by adjusting the value.The range is from 800 to 2200.
+
+(IV)"Time" represents the duration of the change of servo motor. The time unit is milli-second(ms).
+
+(V) Save the action value of the action to the PC as a ftxt file or read ftxt file from PC.
+
+(VI) Save the action value in Innovati Servo Commander 16 control module or read the action value from Innovati Servo Commander 16 control module.
+
  ![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/29.jpg)
 
 
