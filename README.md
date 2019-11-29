@@ -86,9 +86,7 @@ After editing the program, using USB Mini-B to connect computer and robot, as we
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
 
 ## Preliminary_prepare
-* servo motor
-
-
+(1) servo motor
 
 This is the picture of servo motor. (Attention: servo motor angle's range 800~2200)
 <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
@@ -101,7 +99,7 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      The picture below is for the each servo motor corresponding to the robot.<br/>
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
      
-## Battery
+(2) Battery
 
 
 ## Check_and_start
