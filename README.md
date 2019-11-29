@@ -50,14 +50,14 @@ This system needs IBM or Compatible PC running under Windows 98 or above version
 
 ## Robot_Action_programming
  
-Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
+1. Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
 Inside the commander is the code editor.
 ![pic12](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/20.jpg)
  
-Open the InnoBASIC Workshop 2 commander, we click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
+2. Open the InnoBASIC Workshop 2 commander, we click   <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
-And then, it will show up a window. We choose "Default" in the kit preset, and choose "Servo commander 16" in the Left used module. Press "OK".
+3. It will show up a window. We choose "Default" in the kit preset, and choose "Servo commander 16" in the Left used module. Press "OK".
 ![pic27](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/27.jpg)
 
 Then, it will pop up a warning sign to warn you to check to servo motors's position.
