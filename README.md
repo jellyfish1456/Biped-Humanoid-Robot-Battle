@@ -8,7 +8,7 @@ This Biped-Humanoid-Robot is a titanium alloy robot, which resembles human-being
 
   * [Component](#Component)
   * [Installation](#Installation)
-  * [Edit_and_adjust](#Edit_and_adjust)
+  * [Robot_Action_programming](#Robot_Action_programming)
   * [Servo-motor](#Servo-motor)
   * [Battery](#Battery)
   * [Start](#Start)
@@ -48,7 +48,7 @@ There are three kinds of resources can be used. First is the General-Purpose I/O
 
 This system needs IBM or Compatible PC running under Windows 98 or above version/2000/ME/XP/Vista/10. A USB 1.1 /2.0 port is a must, which is essential for your program downloading and debugging. 
 
-## Edit_and_adjust
+## Robot_Action_programming
  
 Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
