@@ -150,6 +150,11 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 ## Team_members
 
+劉力元 Yuan Ze University - International program in electrical and communication engineering department
+
+張程鈞  Yuan Ze University - International program in electrical and communication engineering department
+
+徐靖憲(Ching-Hsien Hsu) 1063740 Yuan Ze University - International program in electrical and communication engineering department
 
 ## Gratitude
 
