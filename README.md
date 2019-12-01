@@ -112,13 +112,9 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
  * 4. Every time before using the robot, ㄣlease verify all screws have been properly fastened to avoid damages which may be caused by loosened parts.
    5. Before using the battery, please checking the battery voltage. If the voltage is less than 10V, use balance battery charger to charge it. The full voltage is 12.60V.
 	
-## Before starting the robot
- * First of all, we should check the controlloer and battery whether is fully charged.
- * Second, check all the wiring whether is connected.
- * Thirdly, connect the battery carefully with the robot.
- * Fourth, press "START" button on the PS2 controller to connect with our robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
 
 # Check_and_start
+Check to robot whether is fully charged.
 
 Holding the PS2 controller near the robot.
 
@@ -126,7 +122,7 @@ Connect the battery with the robot.
 
   <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
 
-Press "START" button on the PS2 controller to connect with the robot
+Press "START" button on the PS2 controller to connect with the robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
  
 
 
