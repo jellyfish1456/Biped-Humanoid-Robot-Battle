@@ -111,17 +111,17 @@ Holding the PS2 controller near the robot.
 
 Connect the battery with the robot.
 
-![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
+  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
 
 Press "START" button on the PS2 controller to connect with the robot
  
 
 
-  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
+
   
 Here we use PS2 wireless controller to control our robot.
 
-
+![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
 
 
 When it is conntected sucessfully, the robot will be stiff and the motor will be fixed as well.
