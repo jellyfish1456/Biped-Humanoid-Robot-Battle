@@ -159,6 +159,8 @@ Notice: These buttons can be set by ourselves!
 ## Video
 Gymnastics
 
+Let's try some difficult action!
+
 [One-handed handstand](https://www.youtube.com/watch?v=5fRVJbHhV6Q)
 	   
 [Jump rotation](https://www.youtube.com/watch?v=VnRADacrUuY)
