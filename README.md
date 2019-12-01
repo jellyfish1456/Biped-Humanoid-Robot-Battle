@@ -99,6 +99,14 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      
 (2) Battery
 
+
+
+
+
+
+
+# <warnings>
+	
 Before starting the robot
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, check all the wiring whether is connected.
