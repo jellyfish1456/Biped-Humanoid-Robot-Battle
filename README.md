@@ -4,7 +4,7 @@ This YZUEI Robot is a titanium alloy robot, which resembles human-beings body. G
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/3.jpg"/></div>
 
-## Content
+# Content
 
   * [Component](#Component)
   * [Installation](#Installation)
@@ -20,7 +20,7 @@ This YZUEI Robot is a titanium alloy robot, which resembles human-beings body. G
   * [Gratitude](#Gratitude)
  
   
-## Component
+# Component
 
 The Biped-Humanoid-Robot mainly consists of:
  * Robot
@@ -34,7 +34,7 @@ Battery:
  * Desire Power V8 11.1V 1300mAh 35C-70C 3S LiPo Battery
  * Balance Battery Charger
  
-## Installation
+# Installation
 
 1. Operating system: Microsoft Windows 10<br/>
 Install [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html) commander for execute the code
@@ -47,7 +47,7 @@ There are three kinds of resources can be used. First is the General-Purpose I/O
 
 This system needs IBM or Compatible PC running under Windows 98 or above version/2000/ME/XP/Vista/10. A USB 1.1 /2.0 port is a must, which is essential for your program downloading and debugging. 
 
-## Robot_Action_Programming
+# Robot_Action_Programming
  
 1. Open the InnoBASIC Workshop 2 commander in Windows search <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
@@ -83,7 +83,7 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 5. After editing the program, using USB Mini-B to connect computer and robot, as well as clicking "build" in the InnoBASIC Workshop 2 commander to transmit program to the robot
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
 
-## Preliminary_prepare
+# Preliminary_prepare
 (1) servo motor
 
 This is the picture of servo motor. (Attention: servo motor angle's range 800~2200)
@@ -107,13 +107,13 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 
 <warnings>
 	
-# Before starting the robot
+## Before starting the robot
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, check all the wiring whether is connected.
  * Thirdly, connect the battery carefully with the robot.
  * Fourth, press "START" button on the PS2 controller to connect with our robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
 
-## Check_and_start
+# Check_and_start
 
 Holding the PS2 controller near the robot.
 
@@ -136,9 +136,9 @@ When it is conntected sucessfully, the robot will be stiff and the motor will be
 
 Notice: These buttons can be set by ourselves!
 
-## Trouble_shooting
+# Trouble_shooting
 
-## Discussion
+# Discussion
 
  1.  * Q: If the robot cannot walk properly in different grounds, how should I do?
 
@@ -164,7 +164,7 @@ Notice: These buttons can be set by ourselves!
      
 
 
-## Video
+# Video
 
 Let's try some difficult action!
 
@@ -177,18 +177,18 @@ Gymnastics
 [Backwards rotation](https://www.youtube.com/watch?v=si86ftxEGCs)
   
   
-## Code
+# Code
 
 Code will be uploaded after the end of the competition
 
-## Reference
+# Reference
 
 https://en.wikipedia.org/wiki/Humanoid_robot
 
 http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 
-## Members
+# Members
 Team members: 
 
  Yuan Ze University - International program in electrical and communication engineering department
@@ -201,7 +201,7 @@ Advisor:
 
   Po-Chiang Lin - Yuan Ze University - Professor of Electrical engineering department program B
 
-## Gratitude
+# Gratitude
 
 We appreciate Prof. Po-Chiang Lin as our advisor.
 
