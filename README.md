@@ -11,7 +11,6 @@ This YZUEI Robot is a titanium alloy robot, which resembles human-beings body. G
   * [Robot_Action_Programming](#Robot_Action_Programming)
   * [Preliminary_prepare](#Preliminary_prepare)
   * [Check_and_start](#Check_and_start)
-  * [Trouble_shooting](#Trouble_shooting)
   * [Discussion](#Discussion)
   * [Video](#Video)
   * [Code](#Code)
@@ -86,7 +85,7 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 # Preliminary_prepare
 (1) servo motor
 
-This is the picture of servo motor. (Attention: servo motor angle's range 800~2200)
+This is the picture of servo motor. (Attention: servo motor angle's range 800 to 2200)
 <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
 
   * Maintainance:<br/>
@@ -99,13 +98,21 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      
 (2) Battery
 
+This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.60V)
 
-
-
-
-
+  Charging
+   
+   Connect the battery with the charger
+   
+   Press "Stop" and choose "Lipo" 
+   
+   Press"+" to choose the mode balance.
+   
+   Press "Start". When it is fully charged, the charger will ring. Please press"Stop"
+    
 
 ## Warnings
+
  * 1. When we are doing robot action programming or using the robot, we should observe the temperature of servo motors whether is too high. If it is too high, stop using it or the servo motors might damaged or crashed.
  * 2. The servo motors angle is from 800 to 2200. Please prevent beyonding the range.
  * 3. When you observe that the servo motors cannot do action or abnormally do some weird action. Please immediatley stop using it. Try to replace a new one.
@@ -136,8 +143,6 @@ Here we use PS2 wireless controller to control our robot.
 When it is conntected sucessfully, the robot will be stiff and the motor will be fixed as well.
 
 Notice: These buttons can be set by ourselves!
-
-# Trouble_shooting
 
 # Discussion
 
