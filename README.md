@@ -99,22 +99,30 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
      
 (2) Battery
 
-
-## Check_and_start
-
 Before starting the robot
  * First of all, we should check the controlloer and battery whether is fully charged.
  * Second, check all the wiring whether is connected.
  * Thirdly, connect the battery carefully with the robot.
  * Fourth, press "START" button on the PS2 controller to connect with our robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
+
+## Check_and_start
+
+Holding the PS2 controller near the robot.
+
+Connect the battery with the robot.
+
+Press "START" button on the PS2 controller to connect with the robot
  
-Connect the battery with robot.
+
 
   <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
   
 Here we use PS2 wireless controller to control our robot.
 
 ![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
+
+
+When it is conntected sucessfully, the robot will be stiff and the motor will be fixed as well.
 
 Notice: These buttons can be set by ourselves!
 
