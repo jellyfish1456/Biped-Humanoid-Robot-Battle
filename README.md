@@ -105,7 +105,11 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800~22
 
 
 
-<warnings>
+## Warnings
+ * 1., we should check the controlloer and battery whether is fully charged.
+ * Second, check all the wiring whether is connected.
+ * Thirdly, connect the battery carefully with the robot.
+ * Fourth, press "START" button on the PS2 controller to connect with our robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
 	
 ## Before starting the robot
  * First of all, we should check the controlloer and battery whether is fully charged.
