@@ -113,7 +113,7 @@ This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.6
    
    3.Press "Start". When it is fully charged, the charger will ring. Please press"Stop"
    
-   <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/36.jpg"/></div><br/>
+   <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/36.jpg"/></div><br/>
 
 ## Warnings
 
