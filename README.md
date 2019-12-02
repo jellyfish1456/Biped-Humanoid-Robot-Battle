@@ -105,7 +105,7 @@ This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.6
  Charging
    
    Connect the battery with the charger
-       <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/35.jpg"/></div><br/>
+       <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/35.jpg"/></div><br/>
    
    1.Press "Stop" and choose "Lipo" 
    
