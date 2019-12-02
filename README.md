@@ -16,6 +16,7 @@ This YZUEI Robot is a titanium alloy robot, which resembles human-beings body. G
   * [Code](#Code)
   * [Reference](#Reference)
   * [Members](#Members)
+  * [Honor](#Honor)
   * [Gratitude](#Gratitude)
  
   
@@ -214,6 +215,10 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
    
   * Advisor:<br/>
      Po-Chiang Lin - Yuan Ze University - Professor of Electrical engineering department program B
+     
+# Honor
+
+ROBO-ONE 35TH, Japan(International Biped Robot Highest Level Open Competition) - The only group get full point in Jump Rotation 
 
 # Gratitude
 
