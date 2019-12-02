@@ -51,8 +51,14 @@ This system needs IBM or Compatible PC running under Windows 98 or above version
 # Praogram_syntax
 
 Below picture is the sample code
+![pic38](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/38.jpg)
 
-<div align=center><img width="450" height="400" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/38.jpg"/></div>
+## Do...Loop Statements
+
+## If...Then...Else Statements
+
+## SUB and FUNCTION
+
 
 
 
