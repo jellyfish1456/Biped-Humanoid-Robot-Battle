@@ -64,17 +64,17 @@ Then, it will pop up a warning sign to warn you to check to servo motors's posit
 
 4. Below is the step of using Innovation motion editor to edit the servo motors value.
 
-(I) It represent the frame ID from 1 to 200.
+ (I) It represent the frame ID from 1 to 200.
 
-(II) CH0, CH1, ....to CH15 represent individual servo motor ID. (Click the ID will activate that corresponding servo motor).
+ (II) CH0, CH1, ....to CH15 represent individual servo motor ID. (Click the ID will activate that corresponding servo motor).
 
-(III) It can alter the servomotor angle by adjusting the value. The angle range is from 800 to 2200.
+ (III) It can alter the servomotor angle by adjusting the value. The angle range is from 800 to 2200.
 
-(IV) "Time" represents the duration of the change of servo motor. The time unit is in milli-second(ms).
+ (IV) "Time" represents the duration of the change of servo motor. The time unit is in milli-second(ms).
 
-(V) Save the action value of the action to the PC as a ftxt file or read ftxt file from PC.
+ (V) Save the action value of the action to the PC as a ftxt file or read ftxt file from PC.
 
-(VI) Save the action value in Innovati Servo Commander 16 control module or read the action value from Innovati Servo Commander 16 control module.
+ (VI) Save the action value in Innovati Servo Commander 16 control module or read the action value from Innovati Servo Commander 16 control module.
 
  ![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/29.jpg)
 
