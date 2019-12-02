@@ -123,7 +123,7 @@ This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.6
 # Check_and_start
 Check the battery whether is fully charged.
 
-<div align=center><img width="570" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/31.jpg"/></div>
+<div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/31.jpg"/></div>
 
 Holding the PS2 controller near the robot.
 
@@ -135,8 +135,7 @@ Connect the battery with the robot.
 
 Press "START" button on the PS2 controller to connect with the robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
  
-
-![pic33](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/33.jpg)
+<div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/33.jpg"/></div>
 
 
   
