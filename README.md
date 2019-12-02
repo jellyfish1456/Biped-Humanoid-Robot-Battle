@@ -209,7 +209,7 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
   * Team members:<br/>
      Liu-Li Yuan - Yuan Ze University - International program in electrical and communication engineering department
 
-     Yuan Ze University - International program in electrical and communication engineering department
+     Cheng-Chun Chang - Yuan Ze University - International program in electrical and communication engineering department
 
      Ching-Hsien Hsu - Yuan Ze University - International program in electrical and communication engineering department
    
