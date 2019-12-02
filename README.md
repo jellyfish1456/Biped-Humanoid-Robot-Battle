@@ -135,7 +135,8 @@ Connect the battery with the robot.
 
 Press "START" button on the PS2 controller to connect with the robot. If the robot is connected, the servo motors will be fixed. If it is not connected, the indicator red light on the PS2 controller will flash on the controller.
  
-<div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/33.jpg"/></div>
+
+![pic33](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/33.jpg)
 
 
   
