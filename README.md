@@ -54,13 +54,14 @@ Below picture is the sample code
 ![pic38](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/38.jpg)
 
 ## Do...Loop Statements
+If it is required to execute a program  repeatedly, then one of the most efficient ways of doing so is to use the DO…LOOP command.
+The basic DO … LOOP command will constitute an infinite loop, with the commands enclosed by DO and LOOP to be executed forever.  
 
 ## If...Then...Else Statements
+If the expression in the If statement is True, the statements enclosed by the If block are executed. If the expression is False, then the statements in the Else block are executed. More conditions can be evaluated by using the ElseIf statement, when each of the ElseIf expressions is evaluated.
 
 ## SUB and FUNCTION
-
-
-
+A program is made up of at least one Sub procedure with the name “main”. The “Sub Main()“ statement denotes the procedure where the program starts and the program terminates when it passes to the end of the Main() procedure. 
 
 
 # Robot_Action_Programming
