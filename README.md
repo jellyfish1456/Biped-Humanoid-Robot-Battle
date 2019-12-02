@@ -218,7 +218,7 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
      
 # Honor
 
-ROBO-ONE 35TH, Japan(International Biped Robot Highest Level Open Competition) - The only group get full point in Jump Rotation 
+ROBO-ONE 35TH, Japan (International Biped Robot Highest Level Open Competition) - The only group get full point in Gymnastics (Jump Rotation item).
 
 # Gratitude
 
