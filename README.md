@@ -8,6 +8,7 @@ This YZUEI Robot is a titanium alloy robot, which resembles human-beings body. G
 
   * [Component](#Component)
   * [Installation](#Installation)
+  * [Praogram_syntax](#Praogram_syntax)
   * [Robot_Action_Programming](#Robot_Action_Programming)
   * [Preliminary_prepare](#Preliminary_prepare)
   * [Check_and_start](#Check_and_start)
@@ -46,6 +47,12 @@ There are three kinds of resources can be used. First is the General-Purpose I/O
  ![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/25.jpg)
 
 This system needs IBM or Compatible PC running under Windows 98 or above version/2000/ME/XP/Vista/10. A USB 1.1 /2.0 port is a must, which is essential for your program downloading and debugging. 
+
+# Praogram_syntax
+
+
+
+
 
 # Robot_Action_Programming
  
