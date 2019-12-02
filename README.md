@@ -121,7 +121,7 @@ This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.6
 	
 
 # Check_and_start
-Check to robot whether is fully charged.
+Check the battery whether is fully charged.
 
 Holding the PS2 controller near the robot.
 
