@@ -121,7 +121,7 @@ This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.6
  * 1. When we are doing robot action programming or using the robot, we should observe the temperature of servo motors whether is too high. If it is too high, stop using it or the servo motors might damaged or crashed.
  * 2. The servo motors angle is from 800 to 2200. Please prevent beyonding the range.
  * 3. When you observe that the servo motors cannot do action or abnormally do some weird action. Please immediatley stop using it. Try to replace a new one.
- * 4. Every time before using the robot, ㄣlease verify all screws have been properly fastened to avoid damages which may be caused by loosened parts.
+ * 4. Every time before using the robot, please verify all screws have been properly fastened to avoid damages which may be caused by loosened parts.
    5. Before using the battery, please checking the battery voltage. If the voltage is less than 10V, use balance battery charger to charge it. The full voltage is 12.60V.
 	
 
