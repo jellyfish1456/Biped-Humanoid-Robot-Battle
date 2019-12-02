@@ -204,13 +204,16 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 
 # Members
-Team members: 
 
- Yuan Ze University - International program in electrical and communication engineering department
+  * Maintainance:<br/>
+     If the servo motor works unusual. For example: Smoke appear or stuck. Please stop using it immediately. You may condsider changing the new one or fix it.
+     
+  * Team members:<br/>
+     Liu Li Yuan Yuan Ze University - International program in electrical and communication engineering department
 
-   Yuan Ze University - International program in electrical and communication engineering department
+     Yuan Ze University - International program in electrical and communication engineering department
 
-  Ching-Hsien Hsu - Yuan Ze University - International program in electrical and communication engineering department
+     Ching-Hsien Hsu - Yuan Ze University - International program in electrical and communication engineering department
    
 Advisor:
 
