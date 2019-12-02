@@ -101,10 +101,9 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800 to
 This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.60V)
 
 <div align=center><img width="400" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/34.jpg"/></div><br/>
-    
- Charging
-   
-   Connect the battery with the charger
+        
+ * Charging:<br/>
+     Connect the battery with the charger
        <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/35.jpg"/></div><br/>
        
    The picture below is the instruction of using battery charger.
