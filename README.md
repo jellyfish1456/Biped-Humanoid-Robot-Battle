@@ -50,6 +50,9 @@ This system needs IBM or Compatible PC running under Windows 98 or above version
 
 # Praogram_syntax
 
+Below picture is the sample code
+
+ ![pic38](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/38.jpg)
 
 
 
