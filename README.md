@@ -100,16 +100,20 @@ This is the picture of servo motor. (Attention: servo motor angle's range 800 to
 
 This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.60V)
 
-  Charging
+    <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/34.jpg"/></div><br/>
+    
+ Charging
    
    Connect the battery with the charger
+        <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/35.jpg"/></div><br/>
    
-   Press "Stop" and choose "Lipo" 
+   1.Press "Stop" and choose "Lipo" 
    
-   Press"+" to choose the mode balance.
+   2.Press"+" to choose the mode balance.
    
-   Press "Start". When it is fully charged, the charger will ring. Please press"Stop"
-    
+   3.Press "Start". When it is fully charged, the charger will ring. Please press"Stop"
+   
+     <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/36.jpg"/></div><br/>
 
 ## Warnings
 
