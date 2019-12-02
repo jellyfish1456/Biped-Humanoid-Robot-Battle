@@ -64,11 +64,13 @@ If the expression in the If statement is True, the statements enclosed by the If
 A program is made up of at least one Sub procedure with the name “main”. The “Sub Main()“ statement denotes the procedure where the program starts and the program terminates when it passes to the end of the Main() procedure. 
 
 '''
-Sub Display()
 
-    Debug "Sub Procedure Display() has executed."
+    Sub Display()
 
-End Sub
+       Debug "Sub Procedure Display() has executed."
+
+    End Sub
+
 '''
 
 # Robot_Action_Programming
