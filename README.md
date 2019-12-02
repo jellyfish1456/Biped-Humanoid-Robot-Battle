@@ -106,12 +106,14 @@ This is the picture of battery. (Attention: battery voltage's range 10.0 to 12.6
    
    Connect the battery with the charger
        <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/35.jpg"/></div><br/>
+       
+   The picture below is the instruction of using battery charger.
    
-   1.Press "Stop" and choose "Lipo" 
+    1.Press "Stop" and choose "Lipo" 
    
-   2.Press"+" to choose the mode balance.
+    2.Press"+" to choose the mode balance.
    
-   3.Press "Start". When it is fully charged, the charger will ring. Please press"Stop"
+    3.Press "Start". When it is fully charged, the charger will ring. Please press"Stop"
    
    <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/36.jpg"/></div><br/>
 
