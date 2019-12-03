@@ -59,7 +59,7 @@ A program is made up of at least one Sub procedure with the name “main”. The
 
     Sub Main()
 
-   	 Display()
+       Display()
 
     End Sub
     Sub Display()
