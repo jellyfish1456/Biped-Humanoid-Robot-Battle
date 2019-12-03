@@ -57,7 +57,11 @@ Below picture is the sample code
 A program is made up of at least one Sub procedure with the name “main”. The “Sub Main()“ statement denotes the procedure where the program starts and the program terminates when it passes to the end of the Main() procedure. 
 
 
+    Sub Main()
 
+   	 Display()
+
+    End Sub
     Sub Display()
 
        Debug "Sub Procedure Display() has executed."
